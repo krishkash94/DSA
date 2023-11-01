@@ -1,5 +1,4 @@
 #Write a program which sums the multiples of 3 and 5 until 1000:
-#Code: 
 
 mult_list = []
 for k in range(1, 334):
